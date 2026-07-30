@@ -625,7 +625,7 @@ require("mini.bufremove").setup({})
 require("mini.notify").setup({})
 require("mini.icons").setup({})
 
-require("mini.diff").setup({
+--[[require("mini.diff").setup({
 	view = {
 		style = "sign",
 		signs = { add = "▎", change = "▎", delete = "▎" },
@@ -647,7 +647,7 @@ vim.keymap.set("n", "<leader>hp", function()
 end, { desc = "Preview diff overlay" })
 vim.keymap.set("n", "<leader>hb", function()
 	require("mini.git").show_at_cursor()
-end, { desc = "Git blame/show" })
+end, { desc = "Git blame/show" })]]
 
 require("mason").setup({})
 
