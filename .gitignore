@@ -1,0 +1,9 @@
+# Plugin manager data (lazy.nvim, packer, etc.)
+plugin/
+undodir/
+.luarc.json
+
+# Swap/backup files
+*.swp
+*.swo
+*~
