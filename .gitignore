@@ -2,6 +2,8 @@
 plugin/
 undodir/
 .luarc.json
+lazy-lock.json
+nvim-pack-lock.json
 
 # Swap/backup files
 *.swp

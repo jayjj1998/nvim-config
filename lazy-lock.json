@@ -1,0 +1,7 @@
+{
+  "gitsigns.nvim": { "branch": "main", "commit": "31d6fb2d618bca1482b9f274751ead5f03461408" },
+  "gruvbox.nvim": { "branch": "main", "commit": "154eb5ff5b96d0641307113fa385eaf0d36d9796" },
+  "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
+  "mini.nvim": { "branch": "main", "commit": "8bf5c57bc82dd590932faa41bfde9fd6d40a9433" },
+  "nvim-scrollbar": { "branch": "main", "commit": "f8e87b96cd6362ef8579be456afee3b38fd7e2a8" }
+}
